@@ -6,4 +6,4 @@ A tool to quickly capture/update a 2-site calibration using the Myo armband.
 
 Currently using:
 
-- Version 1.1 of MyoProportional project (https://github.com/hcilab/MyoProportional)
+- Version 1.2 of MyoProportional project (https://github.com/hcilab/MyoProportional)
